@@ -1,0 +1,4 @@
+local keys = {
+    U2FsdGVkX19LcZhckOqflApzO0LL6o7hW7wDXIIz90 = true
+}
+return keys
