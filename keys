@@ -1,5 +1,4 @@
 local keys = {
     Lyssa = true
-    Nessie = true
 }
 return keys
